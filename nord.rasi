@@ -8,11 +8,11 @@
 
 configuration {
 
-	font: "Envy Code R 10";
-	width: 30;
+	font: "Hack 12";
+	width: 50;
 	line-margin: 10;
-	lines: 6;
-	columns: 2;
+	lines: 15;
+	columns: 3;
 
     display-ssh:    "";
     display-run:    "";
